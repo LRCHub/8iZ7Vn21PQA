@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Midnight Mission",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-04T16:35:53.786458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Mission",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/01_Midnight_Mission_Midnight_Grand_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Mission",
+      "artist": "Stellar Circuits",
+      "has_synced": true,
+      "path": "select/02_Midnight_Mission_Stellar_Circuits.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Mission",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/03_Midnight_Mission_Midnight_Grand_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Mission",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Mission_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
